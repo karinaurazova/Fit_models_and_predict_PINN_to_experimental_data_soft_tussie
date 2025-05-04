@@ -15,7 +15,6 @@ pip install numpy pandas matplotlib scipy tensorflow scikit-learn
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/karinaurazova/Fit_models_and_predict_PINN_to_experimental_data_soft_tussie
-cd Fit_models_and_predict_PINN_to_experimental_data_soft_tussie
 ```
 
 2. The main components are:
