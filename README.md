@@ -109,10 +109,10 @@ def fit_and_plot_models(strain, stress, tissue_props):
 ## Example Outputs
 
 ### Model Fitting Comparison
-![Model Comparison Plot](https://github.com/karinaurazova/Fit_models_and_predict_PINN_to_experimental_data_soft_tussie/blob/main/result.png)
+![Model Comparison Plot](https://github.com/karinaurazova/Fit_models_and_predict_PINN_to_experimental_data_soft_tussie/blob/main/results/result.png)
 
 ### Neural Network Prediction
-![PINN Prediction](https://github.com/karinaurazova/Fit_models_and_predict_PINN_to_experimental_data_soft_tussie/blob/main/result1.png)
+![PINN Prediction](https://github.com/karinaurazova/Fit_models_and_predict_PINN_to_experimental_data_soft_tussie/blob/main/results/result1.png)
 
 ## Supported Tissues
 
